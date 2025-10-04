@@ -1,0 +1,56 @@
+{
+  "id": "7a4d5087-113d-4d69-8c35-9393e8c63c54",
+  "name": "@symptom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_duration",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "546e1090-aa6a-41e9-95a6-e00187933e47",
+          "name": "symptom",
+          "required": true,
+          "dataType": "@symptom",
+          "value": "$symptom",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see you have a $symptom. How long have you been feeling this?",
+            "Thanks for sharing. Are there any other symptoms you have?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cec23b3b-7cf5-483f-b1b9-8d40f60aa41b",
+  "name": "final_conclusion",
+  "auto": true,
+  "contexts": [
+    "awaiting_followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e49b2ab-e543-421c-95a8-f0ae54c0ba01",
+          "name": "symptom",
+          "required": false,
+          "dataType": "@symptom",
+          "value": "$symptom",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You need to meet a doctor in order to get your treatment"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "d2ddc8ee-cdfc-4adb-bff3-71a2511a5570",
+    "data": [
+      {
+        "text": "i\u0027ve been ",
+        "userDefined": false
+      },
+      {
+        "text": "sneezing",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " and coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd790bb3-b31b-46e6-8a38-114de7748a47",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " is high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "770c5999-476f-43ea-bd46-63c53f75fbcf",
+    "data": [
+      {
+        "text": "i think i ",
+        "userDefined": false
+      },
+      {
+        "text": "hurt",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " my leg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65f3fe51-42d4-4fcc-a38f-4bfd25883b5a",
+    "data": [
+      {
+        "text": "suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "muscle cramps",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "626bf4f8-ef61-47c5-8447-f21b992f52d0",
+    "data": [
+      {
+        "text": "unable to ",
+        "userDefined": false
+      },
+      {
+        "text": "walk",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99663988-5c0d-40fb-a077-39c28069df1e",
+    "data": [
+      {
+        "text": "suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "mild",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chest pain",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0be5091-49b0-4aa3-8867-18eb7a7fb357",
+    "data": [
+      {
+        "text": "have ",
+        "userDefined": false
+      },
+      {
+        "text": "vomit",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sensation",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d673210c-7a34-4ec5-a280-2caa747dcc59",
+    "data": [
+      {
+        "text": "feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restless",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6077b82-7ece-4b85-8127-640f03d5f1c6",
+    "data": [
+      {
+        "text": "dizziness",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e6353d5-b337-415a-b99b-503b0a070492",
+    "data": [
+      {
+        "text": "unable",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3708515a-51e9-4c5b-93eb-956f63d1c1c7",
+    "data": [
+      {
+        "text": "head is feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "heavy",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2927c5b0-b560-458e-9f01-d21de2b5c5e9",
+    "data": [
+      {
+        "text": "suffering with ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach ache",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9359db03-8d0d-4b55-8a0a-4e240bd7e6d3",
+    "data": [
+      {
+        "text": "have throat ",
+        "userDefined": false
+      },
+      {
+        "text": "infection",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b95c51ce-9c6a-4c73-b7fa-2b60a0a639f5",
+    "data": [
+      {
+        "text": "have leg ",
+        "userDefined": false
+      },
+      {
+        "text": "pains",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "730aba2a-4fa3-4955-9335-20ff5c26cca8",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "nausea",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19b55672-84fc-471b-95d6-fe704f96c84f",
+    "data": [
+      {
+        "text": "i am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f8d8065-b65d-4206-b1a7-ae677bffe9fc",
+    "data": [
+      {
+        "text": "I have a persistent ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e674223-00c2-4f3a-b808-1b0717ba006e",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "head",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hurts",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47066645-4be0-4011-b579-ad7f14c090f4",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " with a ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35041da2-dcf2-4de5-b7c4-b2b6e1545cea",
+    "data": [
+      {
+        "text": "i have been suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " since last night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "218eca83-8940-44e3-a85e-2b6ca1a703b1",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "coughing",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": true
+      },
+      {
+        "text": " a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "id": "25de1168-7f54-4577-9b7e-06e24fa24c9c",
+  "name": "Capture_Duration",
+  "auto": true,
+  "contexts": [
+    "awaiting_duration"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "duration",
+      "affectedContexts": [
+        {
+          "name": "awaiting_followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e1b86d50-e75d-4745-aa6b-7394cea32b42",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9d631250-a6b5-4ed8-8457-85c5e31b8232",
+          "name": "duration",
+          "required": true,
+          "dataType": "@sys.date-period",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How long have you been experiencing this?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh! That must have been frustrating",
+            "Its would have been very difficult. Right?",
+            "Got it! You’ve had headache for $duration. If it persists, consult a doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

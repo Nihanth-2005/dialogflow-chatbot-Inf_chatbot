@@ -1,0 +1,86 @@
+[
+  {
+    "id": "35dfb837-3786-490a-883e-61e7c6f181a0",
+    "data": [
+      {
+        "text": "I\u0027m also ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a733ee75-05e9-4fa1-90ee-06641fa5834f",
+    "data": [
+      {
+        "text": "My chest ",
+        "userDefined": false
+      },
+      {
+        "text": "hurts",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05bdba7f-f6d2-4d3b-a637-33d55197d032",
+    "data": [
+      {
+        "text": "Feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "nausea",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fe9284f-cacc-4787-a8d8-d9bbddfbe184",
+    "data": [
+      {
+        "text": "I also feel ",
+        "userDefined": false
+      },
+      {
+        "text": "dizzy",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

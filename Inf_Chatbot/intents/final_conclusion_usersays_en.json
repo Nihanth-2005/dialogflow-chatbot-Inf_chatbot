@@ -1,0 +1,266 @@
+[
+  {
+    "id": "8fcc36e3-174f-451e-a2bc-9eca0127a704",
+    "data": [
+      {
+        "text": "h",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46d63815-2c37-4eab-99b1-05c0fd5dd4a4",
+    "data": [
+      {
+        "text": "cough",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " is contiuous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eebee9a1-67ac-47be-b282-c26409b7b1f4",
+    "data": [
+      {
+        "text": "headache",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " is increasing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a00f5d9d-6cee-48c9-8897-a7c864ba5b0a",
+    "data": [
+      {
+        "text": "increased ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2dec246-fc25-4677-81c9-7e62bf0aaa84",
+    "data": [
+      {
+        "text": "getting ",
+        "userDefined": false
+      },
+      {
+        "text": "vomit",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " like ",
+        "userDefined": false
+      },
+      {
+        "text": "sensation",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85cb9c77-c8cf-43f6-8e76-824eef43e296",
+    "data": [
+      {
+        "text": "also feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "dizzy",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      },
+      {
+        "text": " a bit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a0fddd1-55f9-402e-b33f-3dc7f53d3f82",
+    "data": [
+      {
+        "text": "increasing ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac2a3c64-3eaa-44ef-8d15-f04e8409cd5f",
+    "data": [
+      {
+        "text": "hard time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b78f3477-5c16-4dc4-a8ff-3e42534bd0cd",
+    "data": [
+      {
+        "text": "unbearble ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@symptom",
+        "alias": "symptom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "091d5857-6750-4ebe-8162-8e64b12b3dc4",
+    "data": [
+      {
+        "text": "what to do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc9f3f7-18f6-449d-98d8-c460cb46c3b0",
+    "data": [
+      {
+        "text": "Tell me what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffc9f60e-70ba-46c1-b6e1-b366b11bcfbe",
+    "data": [
+      {
+        "text": "I want to see a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ef88482-5e66-4ebc-a3b2-38779b2f826b",
+    "data": [
+      {
+        "text": "Any advice?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "651fc727-d77e-469a-af68-0c4e5518f735",
+    "data": [
+      {
+        "text": "What should I do now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa32a2fb-3e9b-495f-b2f8-bcf7f85e6272",
+    "data": [
+      {
+        "text": "No more symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d21b6d19-203e-480e-ba48-692efdaaad3d",
+    "data": [
+      {
+        "text": "That\u0027s all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

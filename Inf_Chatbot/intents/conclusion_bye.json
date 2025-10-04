@@ -1,0 +1,45 @@
+{
+  "id": "800d5704-eb1c-40b2-8975-7e6543883df7",
+  "name": "conclusion_bye",
+  "auto": true,
+  "contexts": [
+    "final_conclusion"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "final_conclusion",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You’re welcome! Take care and get well soon.",
+            "Glad I could help! Make sure to rest and consult a doctor if needed.",
+            "Alright! Wishing you a speedy recovery. Goodbye!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

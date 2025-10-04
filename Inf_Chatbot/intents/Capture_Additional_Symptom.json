@@ -1,0 +1,76 @@
+{
+  "id": "937b536e-8f8c-4339-b539-4963e744f012",
+  "name": "Capture_Additional_Symptom",
+  "auto": true,
+  "contexts": [
+    "awaiting_followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "final_conclusion",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0f1b1954-91fb-45b8-b069-8ad283b9b6ce",
+          "name": "symptom",
+          "required": true,
+          "dataType": "@symptom",
+          "value": "$symptom",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8563a48b-82eb-4ff0-b96a-8a61a71dd460",
+          "name": "additional_symptom",
+          "required": true,
+          "dataType": "@symptom",
+          "value": "$additional_symptom",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Got it! Noted the symptom $additional_symptom. Anything else?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for sharing. Noted the symptom $additional_symptom. Are there any other symptoms?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
